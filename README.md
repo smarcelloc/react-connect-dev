@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Connect DEV
 
 Social network and blog for developers make React and Material UI.
 
