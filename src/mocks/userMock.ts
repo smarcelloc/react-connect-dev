@@ -1,8 +1,6 @@
 import { PostProps } from '../entities';
 import mock from '../utils/mock';
-import data from './data.json';
-
-const { users, posts } = data;
+import { users, posts } from './data';
 
 const user = users[0];
 

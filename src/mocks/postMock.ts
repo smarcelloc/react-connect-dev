@@ -1,7 +1,5 @@
 import mock from '../utils/mock';
-import data from './data.json';
-
-const { posts } = data;
+import { posts } from './data';
 
 mock.onGet('/api/posts').reply(200, { posts });
 
