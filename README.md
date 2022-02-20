@@ -2,8 +2,6 @@
 
 Social network and blog for developers make React and Material UI.
 
-### [Demo view](https://connect-dev.vercel.app/)
-
 ## Available Scripts
 
 In the project directory, you can run:
